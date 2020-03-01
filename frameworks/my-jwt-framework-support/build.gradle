@@ -1,4 +1,4 @@
 dependencies {
-    api project(":my-jwt")
+    implementation project(":my-jwt")
 }
 
